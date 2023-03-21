@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benedetto Manasseri and I'm a Computer Engineer
 - 👀 I’m interested in software developing, data science and AI
-- 🌱 I’m currently learning data analysis tools
+- 🌱 I’m currently learning main data analysis tools (SQL, R, Python, Tableau)
 - 📫 Reach me on https://www.linkedin.com/in/benedetto-manasseri-mnsbdt96
 
 <!---
